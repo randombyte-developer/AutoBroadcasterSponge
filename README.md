@@ -1,3 +1,6 @@
+# Changes in this fork
+- Switched to [kosp's text serialization](https://github.com/randombyte-developer/kosp/blob/master/InstructionsForPluginUsers.md#texts)
+
 # AutoBroadcaster
 This plugin allows you to broadcast messages automatically in the chat of the server.
 
